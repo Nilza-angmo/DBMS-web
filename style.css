@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+    background-color: #C19A6B;
+    border: 5px solid #F8BBD0;
+    margin: 30px;
+}
+
+h1 {
+    color: #B66AS0;
+}
+
+footer {
+    color: #B66AS0;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+header {
+    color: black;
+    background-image: url("pggc.png");
+    background-size: contain;
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.buttons button {
+    padding: 15px 30px;
+    margin: 15px;
+    font-size: 18px;
+    font-family: Serif;
+    border: none;
+    background-color: #FCE4EC;
+    color: black;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.buttons button:hover {
+    background-color: #F8BBD0;
+}
+
+#content {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background: #E7C6A2;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.question-box {
+    margin-bottom: 25px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+pre {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+img {
+    max-width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
